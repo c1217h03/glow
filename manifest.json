@@ -1,0 +1,7 @@
+{
+    "manifest_version": 3,
+    "name": "Glow",
+    "version": 1.0,
+    "description": "An extension for Sephora to check if products have pore cloggin ingredients",
+    "permissions": ["activeTab"]
+}
