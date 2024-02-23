@@ -1,6 +1,6 @@
 html {
     width: 400px;
-    height: 260px;
+    height: 275px;
 }
 
 #check-button{
@@ -8,12 +8,19 @@ html {
     color: #ffffff;
     display: block;
     margin: auto;
+    border-radius: 15px;
+    width: 90px;
+    height: 40px;
+    border:0;
 
 }
 
 h1 {
     color: #2a6159;
     text-align: center;
+    font-style: oblique;
+    font-family: Palatino, 'Palatino Linotype', serif;
+    font-size: xx-large ;
 }
 
 h4 {
