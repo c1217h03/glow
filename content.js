@@ -149,6 +149,7 @@ function compare_I(ingredient) {
     "Isodecyl Oleate",
     "Isopropyl Isostearate",
     "Isopropyl Linolate",
+    "Isopropyl Linoleate",
     "Isopropyl Myristate",
     "Isopropyl Palmitate",
     "Isostearyl Isostearate",
@@ -176,6 +177,8 @@ function compare_L(ingredient) {
     "Laureth-23",
     "Laureth-4",
     "Lauric Acid",
+    "Lanolin",
+    "Lanolin Acid",
   ];
   for (let i = 0; i < ingredient_L.length; i++) {
     let ingredientL = ingredient_L[i].toLowerCase();
@@ -232,6 +235,7 @@ function compare_P(ingredient) {
     "Polyglyceryl-3 Diisostearate",
     "Potassium Chloride",
     "Propylene Glycol Monostearate",
+    "Petroleum Jelly",
   ];
   for (let i = 0; i < ingredient_P.length; i++) {
     let ingredientP = ingredient_P[i].toLowerCase();
