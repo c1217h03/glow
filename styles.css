@@ -1,0 +1,31 @@
+html {
+    width: 400px;
+    height: 260px;
+}
+
+#check-button{
+    background-color: #2a6159;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+
+}
+
+h1 {
+    color: #2a6159;
+    text-align: center;
+}
+
+h4 {
+    color: #808080;
+    text-align: center;
+    margin-left: 5% auto;
+    margin-right: 5% auto;
+}
+
+#product-name {
+    color: #343434;
+    text-align: center;
+    margin-left: 5% auto;
+    margin-right: 5% auto;
+}
